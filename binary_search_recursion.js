@@ -19,7 +19,6 @@ function binary_search(arr,start,end,target){
     else{
         return binary_search(arr,start,mid-1,target);
     }
-
 }
 
 console.log(binary_search(arr,start,end,target));
