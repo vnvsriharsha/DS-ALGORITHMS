@@ -1,3 +1,5 @@
+//Javascript algorithm to Kadane's algorithm.
+
 function maxSubarray(ar) {
     let pre = ar[0];
     let ans = Number.MIN_SAFE_INTEGER;
