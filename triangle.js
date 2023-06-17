@@ -1,3 +1,5 @@
+\\Program to check whwther the array forms triangle or not.
+
 function countGreater(arr, n, k)
 {
     var l = 0;
